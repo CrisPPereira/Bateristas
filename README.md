@@ -37,12 +37,4 @@ Adoramos a ideia de ter mais pessoas ajudando a construir esse projeto! Se você
 
 **#MulheresBateristas #RockNRoll #Code**
 
-**Observações:**
 
-* **Personalize:** Adapte esse README para o seu estilo e adicione mais detalhes sobre o seu projeto.
-* **Imagens:** Inclua imagens para deixar o README mais visualmente atraente.
-* **Licença:** Adicione uma licença para definir como outras pessoas podem usar o seu código.
-
-**Dica:** Use emojis para deixar o README mais divertido e fácil de ler! 
-
-**Com esse README, você vai atrair mais pessoas para o seu projeto e mostrar o seu trabalho para o mundo!**
