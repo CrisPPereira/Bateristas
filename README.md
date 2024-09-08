@@ -1,5 +1,5 @@
 
-### ** Descubra as Rainhas das Baquetas! - Imersão DEV-Alura/Gemini**
+**Descubra as Rainhas das Baquetas! - Imersão DEV-Alura/Gemini**
 
 **O que faz essa aplicação?**
 
