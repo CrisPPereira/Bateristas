@@ -1,6 +1,5 @@
-## **README.md Descontraído para o seu Projeto de Bateristas - Imersão DEV-Alura/Gemini**
 
-### ** Descubra as Rainhas das Baquetas! **
+### ** Descubra as Rainhas das Baquetas! - Imersão DEV-Alura/Gemini**
 
 **O que faz essa aplicação?**
 
